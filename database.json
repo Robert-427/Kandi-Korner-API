@@ -130,7 +130,7 @@
         },
         {
             "id": 2,
-            "address": "456 Broad St.",
+            "address": "456 Broadway",
             "size": "1250 SquareFt"
         },
         {
@@ -142,53 +142,53 @@
     "products": [
         {
             "id": 1,
-            "name": "Haribo",
-            "type": 3,
-            "price": 1.00
+            "name": "Haribo Gummy Bears",
+            "typeId": 3,
+            "price": 2
         },
         {
             "id": 2,
             "name": "Werther's Original",
-            "type": 1,
-            "price": 1.25
+            "typeId": 1,
+            "price": 2.25
         },
         {
             "id": 3,
             "name": "Hershy's",
-            "type": 2,
-            "price": 1.75
+            "typeId": 2,
+            "price": 2.75
         },
         {
             "id": 4,
             "name": "Cinnimon Disks",
-            "type": 1,
-            "price": 0.50
+            "typeId": 1,
+            "price": 1
         },
         {
             "id": 5,
             "name": "Snickers",
-            "type": 2,
-            "price": 1.85
+            "typeId": 2,
+            "price": 2.85
         },
         {
             "id": 6,
             "name": "Gummy Worms",
-            "type": 3,
-            "price": 1.00
+            "typeId": 3,
+            "price": 1.5
         }
     ],
-    "productTypes": [
+    "types": [
         {
             "id": 1,
-            "candyType": "hard candy"
+            "candy": "hard candy"
         },
         {
             "id": 2,
-            "candyType": "chocolate"
+            "candy": "chocolate"
         },
         {
             "id": 3,
-            "candyType": "gummies"
+            "candy": "gummies"
         }
     ],
     "purchases": []
