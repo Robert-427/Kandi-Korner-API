@@ -175,6 +175,24 @@
             "name": "Gummy Worms",
             "typeId": 3,
             "price": 1.5
+        },
+        {
+            "name": "Mars Bar",
+            "typeId": 2,
+            "price": 2.9,
+            "id": 7
+        },
+        {
+            "name": "Lemon Drop",
+            "typeId": 1,
+            "price": 1,
+            "id": 8
+        },
+        {
+            "name": "Peanut Butter Cups",
+            "typeId": 2,
+            "price": 1.75,
+            "id": 9
         }
     ],
     "types": [
